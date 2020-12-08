@@ -12,4 +12,5 @@ Features of the project include:
 - If user sweeps out more rows of tetrimino consecutively, user will obtain more scores
 - When tetrimino hit the top of the display, user will game over
 
-
+## Video Demo
+![tetris](https://user-images.githubusercontent.com/57489399/101494209-fd78c380-39a1-11eb-91c7-ac0871d5d657.gif)
