@@ -1,4 +1,4 @@
-## Tetris using React##
+## Tetris using React ##
 
 An interactive Tetris project created using React.
 
