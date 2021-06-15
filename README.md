@@ -3,11 +3,11 @@
 An interactive Tetris project created using React.
 
 #### Features Provided by App
-* Allow user to move tetrominos upon key press
-* Allow user to rotate tetrominos without crashing the boundaries
-* Allow user to drop tetrominos when space bar is pressed
-* Allow user to clear tetrominos when a complete row is formed
-* Allow user to keep track of current score using interactive scoreboard
+* Allow user to move tetrominos upon key press.
+* Allow user to rotate tetrominos without crashing the boundaries.
+* Allow user to drop tetrominos when space bar is pressed.
+* Allow user to clear tetrominos when a complete row is formed.
+* Allow user to keep track of current score using interactive scoreboard.
 
 
 ## Demo Video ##
